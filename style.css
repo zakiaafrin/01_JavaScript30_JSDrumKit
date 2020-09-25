@@ -49,3 +49,9 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+
+.video {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
